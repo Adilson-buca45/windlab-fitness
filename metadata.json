@@ -1,0 +1,6 @@
+{
+  "name": "FitForce",
+  "description": "Uma loja online moderna de produtos fitness, suplementos, roupas desportivas e acessórios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
