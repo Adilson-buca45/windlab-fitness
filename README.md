@@ -86,9 +86,9 @@ src/
 
 ## 👥 Comunidade
 
-[![Community Badge](https://your-community-image-link-here.com/image.png)](https://community-link.com)
+[![Community Badge](https://scontent-cpt1-1.cdninstagram.com/v/t51.82787-19/551017394_17919005184168406_6493441404934880530_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cpt1-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFyr6-lOBtOVIj6oV_YChbzjNYrYh8JAmFMCjBcCdeFV8u-Iof3bHjwWPBgrHig6OKmG1-q-HyfMueBX0uSgj2f&_nc_ohc=21ohagvQZKoQ7kNvwGqYj0C&_nc_gid=_HhvjxNtTUyr49YplOs78w&edm=APoiHPcBAAAA&ccb=7-5&oh=00_Af8W9VNeJmQCqDdII8wlXLFTP2Vjy3vB85h4GbfEEyC-BA&oe=6A33592E&_nc_sid=22de04)](https://www.instagram.com/windlab_fitness/)
 
-> **Adicione aqui o link da imagem da sua comunidade/logo**
+Junte-se à nossa comunidade Windlab Fitness no Instagram para atualizações, dicas e muito mais!
 
 ## 🤝 Contribuindo
 
